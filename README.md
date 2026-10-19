@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhishek Kumar
 
-### Java Backend Developer | 3.5+ Years of Experience
+### Java Backend Developer | 3+ Years of Experience
 
 I build backend applications using Java, Spring Boot, REST APIs and Microservices.
 
